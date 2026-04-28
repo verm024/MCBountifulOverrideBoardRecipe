@@ -43,7 +43,7 @@ bounty_board_iron/
     "I": { "item": "minecraft:iron_ingot" }
   },
   "result": {
-    "item": "bountiful:bounty_board",
+    "item": "bountiful:bountyboard",
     "count": 1
   }
 }
